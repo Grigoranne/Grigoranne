@@ -1,6 +1,9 @@
 # Hi there, I'm Anna!  👋
 ***Junior data-science***
 
+🔭 I’m looking for work
+
+
 ### Languages and Tools:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
