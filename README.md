@@ -1,5 +1,5 @@
 # Hi there, I'm Anna!  👋
-***Junior data-science***
+***Junior data science***
 
 🔭 I’m looking for a job
 
